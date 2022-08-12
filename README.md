@@ -1,2 +1,2 @@
 # FTP-connection
-Source code for running successfully connection between client and server using FTP protocol.
+Source code for running successful connection between client and server using FTP protocol.
